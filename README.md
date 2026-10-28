@@ -4,9 +4,6 @@ Sistema inteligente de recomendación comercial basado en geolocalización, aná
 
 Proyecto de la Feria de Proyectos de Investigación Tecnológica (9ª Ed. 2026) · Instituto Tecnológico de Morelia.
 
-- **Autores:** Emmanuel Eduardo Rodríguez Torres (23121084), Cristian Muñoz Hinojosa (23121073)
-- **Asesores:** José Guadalupe Ramos Díaz (interno), Roque Trujillo Ramos (externo)
-
 ## Frontend
 
 Vue 3 + Vite + Tailwind CSS v4 + Leaflet.
